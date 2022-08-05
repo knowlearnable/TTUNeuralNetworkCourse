@@ -1,6 +1,6 @@
 # TTUNeuralNetworkCourse
 Group 6
-Paper 8 : CogView: Mastering Text-to-Image Generation via Transformers
+Paper 8 : CogView: Mastering Text-to-Image Generation via Transformers\n
 (Ming Ding, Zhuoyi Yang, Wenyi Hong, Wendi Zheng, Chang Zhou, Da Yin, Junyang Lin, Xu Zou, Zhou Shao, Hongxia Yang, Jie Tang)
 
 CS5388 Team members:
