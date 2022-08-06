@@ -10,6 +10,7 @@ CS5388 Team members:
 This repository provides a detailed documentation for implementing CogView project.
 
 Code Files: are available in folder "CogView-main" or at URL "https://github.com/knowlearnable/TTUNeuralNetworkCourse/tree/main/CogView-main".
+
 Documentation is available in file "CogView_Implementation.docx" or at URL "https://github.com/knowlearnable/TTUNeuralNetworkCourse/CogView_Implementation.docx".
 
 The document covers below sections involved in the project report work.
@@ -36,7 +37,9 @@ Pre-Requisites required for the project:
 Source and References:
 Taking below Research paper as reference, this project implementation has been performed on a virtual machine (Kali Linux) on a personal computer with Virtual Box.
 https://arxiv.org/abs/2105.13290
+
 CogView: Mastering Text-to-Image Generation via Transformers.
+
 (Ming Ding, Zhuoyi Yang, Wenyi Hong, Wendi Zheng, Chang Zhou, Da Yin, Junyang Lin,Xu Zou, Zhou Shao, Hongxia Yang, Jie Tang,
 Tsinghua University ‡DAMO Academy, Alibaba Group BAAI{dm18@mails, jietang@mail}.tsinghua.edu.cn)
 
