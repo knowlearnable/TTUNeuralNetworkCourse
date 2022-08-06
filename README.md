@@ -19,6 +19,7 @@ The document covers below sections involved in the project report work.
 3) Enhancements
 4) Issues
 
+
 Input:
 Text input to the neural network model is placed in a file called "input.txt" which is visible at code location "https://github.com/knowlearnable/TTUNeuralNetworkCourse/tree/main/CogView-main/input.txt"
 
