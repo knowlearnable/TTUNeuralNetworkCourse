@@ -18,6 +18,14 @@ The document covers below sections involved in the project report work.
 3) Enhacements
 4) Issues
 
+Input:
+Text input to the neural network model is placed in a file called "input.txt" which is visible at code location "https://github.com/knowlearnable/TTUNeuralNetworkCourse/tree/main/CogView-main/input.txt"
+
+Output:
+Based on model configurations there are different outputs.
+1) Blur output: Which is obtained as normal output.
+2) Clear output: which is obtained with enhanced parameters.
+3) Time based output: This is the same output image but obtained with less time due to enhanced configurations.
 
 Pre-Requisites required for the project:
 1) Computer with a minimum requirement of 8 GB RAM + 50 GB Hard-disk
