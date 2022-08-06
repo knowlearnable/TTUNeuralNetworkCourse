@@ -28,6 +28,9 @@ Based on model configurations there are different outputs.
 2) Clear output: which is obtained with enhanced parameters.
 3) Time based output: This is the same output image but obtained with less time due to enhanced configurations.
 
+Enhanced Files:
+Files which are modified to enhance the characteristics of neural network model are placed in separate folder called "Enhanced files" or at URL "https://github.com/knowlearnable/TTUNeuralNetworkCourse/tree/main/CogView-main/Enhanced_files".
+
 Pre-Requisites required for the project:
 1) Computer with a minimum requirement of 8 GB RAM + 50 GB Hard-disk
 2) Virtualization Software (VMWare Workstation or Virtual Box)
