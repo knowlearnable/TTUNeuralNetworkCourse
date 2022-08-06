@@ -9,6 +9,16 @@ CS5388 Team members:
 
 This repository provides a detailed documentation for implementing CogView project.
 
+Code Files: are available in folder "CogView-main" or at URL "https://github.com/knowlearnable/TTUNeuralNetworkCourse/tree/main/CogView-main".
+Documentation is available in file "CogView_Implementation.docx" or at URL "https://github.com/knowlearnable/TTUNeuralNetworkCourse/CogView_Implementation.docx".
+
+The document covers below sections involved in the project report work.
+1) Implementation
+2) Demonstration
+3) Enhacements
+4) Issues
+
+
 Pre-Requisites required for the project:
 1) Computer with a minimum requirement of 8 GB RAM + 50 GB Hard-disk
 2) Virtualization Software (VMWare Workstation or Virtual Box)
