@@ -16,7 +16,7 @@ Documentation is available in file "CogView_Implementation.docx" or at URL "http
 The document covers below sections involved in the project report work.
 1) Implementation
 2) Demonstration
-3) Enhacements
+3) Enhancements
 4) Issues
 
 Input:
