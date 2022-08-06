@@ -25,8 +25,16 @@ Pre-Requisites required for the project:
 3) Any linux distribution image file to be mounted on virtualization software (Kali, Ubuntu, RHEL etc)
 4) Python 3.6+ installed on Virtual Machine
 
-Based on Research paper given below, this project implementation has been planned and performed on a controlled environment.
+Source and References:
+Taking below Research paper as reference, this project implementation has been performed on a virtual machine (Kali Linux) on a personal computer with Virtual Box.
 https://arxiv.org/abs/2105.13290
+CogView: Mastering Text-to-Image Generation via Transformers.
+(Ming Ding, Zhuoyi Yang, Wenyi Hong, Wendi Zheng, Chang Zhou, Da Yin, Junyang Lin,Xu Zou, Zhou Shao, Hongxia Yang, Jie Tang,
+Tsinghua University ‡DAMO Academy, Alibaba Group BAAI{dm18@mails, jietang@mail}.tsinghua.edu.cn)
+
+Source code file are taken from below URL and enhancements are done based on project report document.
+https://github.com/THUDM/CogView
+
 
 Enhacements for the project work are included in the document along with details of issues encountered during implementation.
 
